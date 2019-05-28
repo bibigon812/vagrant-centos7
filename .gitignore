@@ -1,0 +1,4 @@
+/.vagrant/
+/vendor/
+*.lock
+*.box
