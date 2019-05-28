@@ -1,4 +1,6 @@
+/.bundle/
 /.vagrant/
+/bundle/
 /vendor/
 *.lock
 *.box
